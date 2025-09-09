@@ -1,6 +1,6 @@
 -- WZN HUB - AutoUpdate Hotfix
 
-local VERSION = 1.0 -- aumente sempre que atualizar
+local VERSION = 1.1 -- aumente sempre que atualizar
 
 local UPDATE_URL = "https://pastebin.com/raw/mGX4fkQz"
 
